@@ -1,0 +1,19 @@
+{
+  "name": "async-redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node src/main.js"
+  },
+  "repository": "git@github.com:samuraime/async-redux.git",
+  "author": "Minhui.Zhao <minhui.zhao@thoughtworks.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/node": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "redux": "^4.0.4",
+    "redux-saga": "^1.0.5"
+  }
+}
